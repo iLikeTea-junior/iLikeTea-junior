@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**iLikeTea-junior/iLikeTea-junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Daniel. I am a junior software developer with basic to intermediate knowledge of web development.
 
-Here are some ideas to get you started:
+I enjoy building fun and quirky projects, small and large, and I like learning by doing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is: Javascript, Vue 3, HTML, CSS. Languages: Python, Javascript, Typescript, HTML, CSS. Frameworks: Vue 3, Flask, Flask-SQLAlchemy, Jinja2, PostgreSQL, git. Tools: Figma (My favorite tool to use btw). Concepts: UX/UI Design, State Management, OOP (Object Oriented Programming), Component-based architecture.
+
+Fun Facts:
+- Right before christmas I uploaded my first youtube video on youtube.
+- I don't have a mother language. I speak English with friends, Spanish with Family, and Dutch because I live in the Netherlands. I also know Papiamento (iykyk)
+- I’m honest by default, but I try to wrap the truth nicely (if neccesary).
+- Don't let mt face scare you away. I am a talkitive- chill guy, at least that is what my friend told me.
+
+Hobbies:
+- Gaming
+- Edit, Make, and even watch youtube videos (for fun)
+- Anime
