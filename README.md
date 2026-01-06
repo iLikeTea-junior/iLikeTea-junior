@@ -15,7 +15,7 @@ Fun Facts:
 - Right before christmas I uploaded my first youtube video on youtube.
 - I don't have a mother language. I speak English with friends, Spanish with Family, and Dutch because I live in the Netherlands. I also know Papiamento (iykyk)
 - I’m honest by default, but I try to wrap the truth nicely (if neccesary).
-- Don't let mt face scare you away. I am a talkitive- chill guy, at least that is what my friend told me.
+- Despite having a serious face. I am a talkitive- chill guy, at least that is what my friend told me.
 
 Hobbies:
 - Gaming
