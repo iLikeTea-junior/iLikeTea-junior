@@ -5,10 +5,11 @@ My name is Daniel. I am a junior software developer with basic to intermediate k
 I enjoy building fun and quirky projects, small and large, and I like learning by doing.
 
 My main tech stack is: Javascript, Vue 3, HTML, CSS.
-Languages: Python, Javascript, Typescript, HTML, CSS.
-Frameworks: Vue 3, Flask, Flask-SQLAlchemy, Jinja2, PostgreSQL, git.
-Tools: Figma (My favorite tool to use btw).
-Concepts: UX/UI Design, State Management, OOP (Object Oriented Programming), Component-based architecture.
+
+- Languages: Python, Javascript, Typescript, HTML, CSS.
+- Frameworks: Vue 3, Flask, Flask-SQLAlchemy, Jinja2, PostgreSQL, git.
+- Tools: Figma (My favorite tool to use btw).
+- Concepts: UX/UI Design, State Management, OOP (Object Oriented Programming), Component-based architecture.
 
 Fun Facts:
 - Right before christmas I uploaded my first youtube video on youtube.
