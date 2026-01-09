@@ -23,3 +23,4 @@ My main tech stack is: Javascript, Vue 3, HTML, CSS.
 - Gaming
 - Edit, Make, and even watch youtube videos (for fun)
 - Anime
+- Play Tennis, and Ping Pong
