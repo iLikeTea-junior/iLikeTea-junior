@@ -6,7 +6,7 @@ I enjoy building fun and quirky projects, small and large, and I like learning b
 
 My main tech stack is: Javascript, Vue 3, HTML, CSS.
 
-- **Languages:** Python, Javascript, Typescript, HTML, CSS.
+- **Languages:** Python, Javascript, Typescript, HTML, CSS, Tailwind CSS.
 - **Frameworks:** Vue 3, Flask, Flask-SQLAlchemy, Jinja2, PostgreSQL, git, React, Django.
 - **Tools:** Figma (My favorite tool to use btw).
 - **Concepts:** UX/UI Design, State Management, OOP (Object Oriented Programming), Component-based architecture.
